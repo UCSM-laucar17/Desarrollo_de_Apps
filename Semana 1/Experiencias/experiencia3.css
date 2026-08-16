@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+/* Título principal */
+h1 {
+    text-align: center;
+}
+/* Títulos de las secciones */
+h2 {
+    margin-top: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+/* Bordes y espacios */
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th { /* Encabezado */
+    background-color: #dddddd;
+}
+/* Estilo para las columnas*/
+.col-verde {
+    background-color: #97DB9A;
+}
+
+.col-ancho {
+    width: 42px;
+}
+
+.col-especial {
+    background-color: #DCC48E;
+    border: 4px solid #C1437A;
+}
