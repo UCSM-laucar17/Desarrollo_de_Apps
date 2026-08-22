@@ -1,0 +1,10 @@
+
+[href] { 
+    color: green;
+    font-weight: bold;
+} 
+ 
+[href="https://es.wikipedia.org/wiki/Wikipedia:Portada"] { 
+   color: red;
+    text-decoration: underline; 
+} 

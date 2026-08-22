@@ -1,0 +1,11 @@
+a[href^="#"] {
+    background-color: gold;
+    color: black;
+}
+a[href$=".edu"] {
+    text-decoration: underline;
+}
+[class^="regex"] {
+    color: blue;
+    font-style: italic;
+}

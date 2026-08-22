@@ -1,0 +1,21 @@
+.caja-cm {
+    width: 10cm;
+    height: 2cm;
+    font-size: 0.5cm; 
+    background-color: #d40449;
+    margin-bottom: 10px;
+}
+.caja-in {
+    width: 3in;
+    height: 0.8in;
+    font-size: 0.15in;
+    background-color: #b6e1ff;
+    margin-bottom: 10px;
+}
+.caja-px {
+    width: 300px;
+    height: 60px;
+    font-size: 16px;
+    background-color: #039761;
+    margin-bottom: 10px;
+}

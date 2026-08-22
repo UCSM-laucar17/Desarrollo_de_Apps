@@ -1,0 +1,15 @@
+.nombre1 {
+    background-color: Coral;
+    color: DarkBlue;
+    font-weight: bold;
+}
+.nombre2 {
+    background-color: SkyBlue;
+    color: Crimson;
+    padding: 20px;
+}
+.nombre3 {
+    background-color: Gold;
+    color: Chocolate;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,19 @@
+.rgb1{
+    background-color: rgb(255, 127, 80);
+    color: rgb(0, 0, 139);
+    padding: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.rgb2{
+    background-color: rgb(53%, 81%, 92%); 
+    color: rgb(86%, 8%, 24%);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+.rgb3{
+    background-color: rgb(100%, 65%, 0%); 
+    color: rgb(20, 20, 20);
+    padding: 20px;
+    margin-bottom: 15px
+}

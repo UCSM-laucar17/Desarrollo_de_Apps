@@ -1,0 +1,15 @@
+.parrafo{
+    color:blue;
+    font-style: italic;
+    text-align: right;
+}
+.porid{
+    color: yellowgreen;
+    font-style: italic;
+    text-align: center;
+}
+.porclase{
+    color: red;
+  font-family: "Copperplate", Papyrus, fantasy;
+  text-align: center;
+}

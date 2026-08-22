@@ -1,0 +1,21 @@
+.hexa1{
+    background-color: #0000FF; 
+    color: #FFFFFF;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.hexa2{
+    background-color: #be95e4; 
+    color: #A52A2A;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.hexa3{
+    background-color: #ff2954; 
+    color: #d73900;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}

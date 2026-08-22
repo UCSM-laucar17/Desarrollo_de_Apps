@@ -1,0 +1,13 @@
+h1::before {
+    content: "**";
+    color: gold;
+}
+h1::after {
+    content: "##";
+    color: gold;
+}
+p.texto::first-letter {
+    color: #000;
+    font-size: xx-large;
+    font-weight: bold;
+}

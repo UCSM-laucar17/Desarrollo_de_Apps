@@ -1,0 +1,23 @@
+.opacidad1 {
+    background-color: rgba(255, 189, 189, 0.5);
+    color: rgb(0, 0, 0);
+    opacity: 0.75;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.opacidad2 {
+    background-color: hsla(240, 100%, 50%, 0.3);
+    color: hsl(239, 75%, 73%);
+    opacity: 0.75;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.opacidad3 {
+    background-color: #000000;
+    color: #bcb5b5;
+    opacity: 0.75;
+    padding: 20px;
+    margin-bottom: 15px;
+}
